@@ -23,21 +23,21 @@ function App() {
         loading={loading}
         {...data}
         columns={columns}
-        sx={{ marginTop: "4rem " }}
+        sx={{ marginTop: "4rem" }}
         checkboxSelection
       />
       <DataGridPro
         loading={loading}
         {...data}
         columns={columns}
-        sx={{ marginTop: "4rem " }}
+        sx={{ marginTop: "4rem" }}
         checkboxSelection
       />
       <DataGridPremium
         loading={loading}
         {...data}
         columns={columns}
-        sx={{ marginTop: "4rem " }}
+        sx={{ marginTop: "4rem" }}
         checkboxSelection
       />
     </div>
